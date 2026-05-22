@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nguyen Thanh An
 
-I'm a third-year Electronics and Telecommunications student at **University of Engineering and Technology - VNU**, based in Hanoi, Vietnam.
-
+I'm a third-year Electronics and Telecommunications student at **University of Engineering and Technology - VNU**
 I'm currently learning and building small projects in **Embedded Systems, IoT, and Edge AI**.  
 I enjoy working with microcontrollers, sensors, communication protocols, and simple AI applications for real-world devices.
 
